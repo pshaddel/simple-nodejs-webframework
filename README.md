@@ -1,4 +1,4 @@
-# simple-nodejs-webframework
+# Simple Nodejs WebFramework
 A Super Simple Nodejs Web Framework to Learn Express
 
 ### Check out these two medium articles to know how it is implemented:
